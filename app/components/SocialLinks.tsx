@@ -6,7 +6,7 @@ export default function SocialLinks() {
   const socialLinks = [
     {
       name: "github",
-      url: "https://github.com/seijileroux",
+      url: "https://github.com/imroux",
       icon: Github,
       color: "text-slate-100",
     },

@@ -15,8 +15,8 @@ const firaMono = Fira_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "s.leroux",
-  description: "s.leroux portfolio",
+  title: "roux",
+  description: "roux's portfolio",
 };
 
 export default function RootLayout({

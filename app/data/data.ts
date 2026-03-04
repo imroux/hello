@@ -42,7 +42,7 @@ export const portfolioProjects: Project[] = [
     title: "my-hyprland-dotfiles",
     description: "A cozy home for my Linux configs ☕",
     tags: ["linux", "hyprland", "lua", "shell", "css"],
-    link: "https://github.com/seijileroux/.noir-dotfiles",
+    link: "https://github.com/imroux/rouxshell/tree/catppuccin",
     status: "dev",
     images: [Dotfiles1, Dotfiles2, Dotfiles3, Dotfiles4, Dotfiles5, Dotfiles6],
   },
