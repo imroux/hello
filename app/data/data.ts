@@ -21,7 +21,7 @@ import JohnDoe1 from "@/app/img/johndoe-portfolio.vercel.app - desktop.png";
 import JohnDoe2 from "@/app/img/johndoe-portfolio.vercel.app - mobile.png";
 
 export const personalInfo: PersonalInfo = {
-  name: "Seiji",
+  name: "Roux",
   title: "front_end_dev, linux_enthusiast",
   bio: "i write code that (mostly) works. currently working with typescript, next.js, tailwind, and way too much coffee ☕",
   email: "s.leroux.dev@proton.me",
